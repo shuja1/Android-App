@@ -1,0 +1,6 @@
+{
+  "name": "Elemensys GST Calculator",
+  "description": "Precision GST calculator supporting all GST percentage slabs with step-by-step tax breakdowns, PDF report exports, and Play Store upload documentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
